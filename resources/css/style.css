@@ -24,3 +24,9 @@ body {
     color: aquamarine;
     font-size: 16px;
 }
+/* Footer */
+.footer--copyright{
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
