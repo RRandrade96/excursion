@@ -4,15 +4,16 @@
     border: 2px;
     border-style: double;
 }
-html {
+body {
     background-color: black;
     text-align: center;
-}
-h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 50px;
 }
-a{
+.header--main {
+    font-size: 50px;
+    font-weight: normal;
+}
+.link--cta{
     color: aquamarine;
     font-size: 16px;
 }
